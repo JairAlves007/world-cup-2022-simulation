@@ -157,9 +157,9 @@ section .groups .champion-container .champion-flag-trophy {
   width: 100%;
 }
 
-section .groups .champion-container .champion-flag-trophy .champion-flag {
+section .groups .champion-container .champion-flag-trophy img {
 	width: 120px;
-	height: 200px;
+	height: 110px;
 }
 
 section .groups .champion-container .champion-flag-trophy .champion-flag img {
