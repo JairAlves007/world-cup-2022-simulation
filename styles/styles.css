@@ -160,6 +160,7 @@ section .groups .champion-container .champion-flag-trophy {
 section .groups .champion-container .champion-flag-trophy img {
 	width: 120px;
 	height: 110px;
+	border-radius: 4px;
 }
 
 section .groups .champion-container .champion-flag-trophy .champion-flag img {
