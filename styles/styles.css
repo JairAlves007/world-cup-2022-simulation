@@ -154,10 +154,11 @@ section .groups .champion-container .champion-flag-trophy {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+  width: 100%;
 }
 
 section .groups .champion-container .champion-flag-trophy .champion-flag {
-	width: 160px;
+	width: 120px;
 	height: 200px;
 }
 
